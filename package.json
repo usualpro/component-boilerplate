@@ -63,9 +63,6 @@
       "text",
       "lcov"
     ],
-    "setupFilesAfterEnv": [
-      "./src/setupTests.ts"
-    ],
     "preset": "ts-jest"
   },
   "dependencies": {
