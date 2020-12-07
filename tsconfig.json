@@ -26,6 +26,7 @@
     "allowSyntheticDefaultImports": true,
     /*  Emit interop between CommonJS and ES modules */
     "esModuleInterop": true,
+    "resolveJsonModule":true,
     "experimentalDecorators": true
   },
   "include": ["src/**/*"]
